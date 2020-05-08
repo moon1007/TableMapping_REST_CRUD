@@ -11,12 +11,6 @@ import javax.transaction.Transactional;
 
 import com.practice.emp.models.EmployeePojo;
 
-
-
-/**
- * TODO - rename and add necessary behaviours to access EmployeeSystem entities
- *
- */
 @Stateless
 public class SomeBean implements Serializable {
     private static final long serialVersionUID = 1L;
